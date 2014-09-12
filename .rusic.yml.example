@@ -1,0 +1,13 @@
+# https://github.com/rusic/rusic-gem#deploy-using-a-rusic-file
+stage:
+  api_key:
+  api_host:
+  theme:
+production:
+  api_key:
+  api_host:
+  theme:
+local:
+  api_key:
+  api_host:
+  theme:

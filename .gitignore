@@ -1,0 +1,9 @@
+node_modules
+.sass-cache
+bower_components
+*.css.map
+.rusic.yml
+
+assets/style.css
+assets/main.js
+bin
