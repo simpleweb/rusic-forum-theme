@@ -1,4 +1,9 @@
 /**
+ * Fonts
+ */
+@import "base/fonts";
+
+/**
  * Vendor
  */
 @import "vendor/normalize";
@@ -16,7 +21,7 @@
 /**
  * Base styles
  */
-// @import "base/...";
+@import "base/typography";
 
 /**
  * Objects
