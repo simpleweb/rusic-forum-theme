@@ -11,3 +11,11 @@ h2 {
   font-size: 1.4em;
   font-weight: normal;
 }
+
+a {
+  color: #34BD87;
+
+  &:hover {
+    color: darken(#34BD87, 10%);
+  }
+}
