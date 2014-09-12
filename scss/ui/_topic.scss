@@ -1,0 +1,15 @@
+.topic {
+
+  &__actions {
+    background-color: #FFF;
+    border: solid 1px #C0C0C0;
+    border-radius: 2px;
+  }
+
+  &__action {
+
+    &:first-child {
+      border-right: solid 1px #C0C0C0;
+    }
+  }
+}
