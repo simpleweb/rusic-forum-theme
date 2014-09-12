@@ -1,10 +1,11 @@
 .actions {
   @extend %clearfix;
+  font-size: .7em;
 
   &__action {
     width: 50%;
     float: left;
-    padding: 13px 15px;
+    padding: 1em 1.2em;
     text-align: center;
     line-height: 1;
   }
